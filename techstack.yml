@@ -1,0 +1,20 @@
+repo_name: muhenge/dushimeemma
+report_id: 8ac574411ef8e3cdb3763e45aaefeca1
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-01T14:43:02+00:00'
+requested_by: dushimeemma
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/muhenge/dushimeemma
+  detection_source: Repo Metadata
